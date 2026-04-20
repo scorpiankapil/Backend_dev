@@ -1,5 +1,3 @@
-# Backend_dev
-
 # Mini Project
 ## Expense Tracker With Data Visualization
 
