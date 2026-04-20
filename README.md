@@ -9,6 +9,9 @@ B.Tech CSE 3rd Year Mini Project — Bridge Labzz
 ExpenseIQ is a full-stack web application for tracking personal expenses and income. It includes user authentication, transaction management, budget tracking, report generation, and data visualization using charts.
 
 ---
+## Deployed Link: https://expense-iq-ovqz.onrender.com/
+
+---
 
 ## Tech Stack
 
